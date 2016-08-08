@@ -3,3 +3,9 @@
 @import "detail/style";
 @import "image-editor/style";
 @import "gallery/style";
+
+.popover__gallery-help {
+	.popover__inner {
+		white-space: normal;
+	}
+}

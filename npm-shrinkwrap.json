@@ -59,9 +59,6 @@
     "array-differ": {
       "version": "1.0.0"
     },
-    "array-equal": {
-      "version": "1.0.0"
-    },
     "array-find-index": {
       "version": "1.0.1"
     },
@@ -510,7 +507,7 @@
       }
     },
     "caniuse-db": {
-      "version": "1.0.30000519"
+      "version": "1.0.30000520"
     },
     "caseless": {
       "version": "0.11.0"
@@ -914,7 +911,7 @@
       }
     },
     "doctypes": {
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "doiuse": {
       "version": "2.4.1",
@@ -1444,7 +1441,7 @@
       "version": "1.2.0"
     },
     "get-caller-file": {
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
     "get-document": {
       "version": "1.0.0"
@@ -1968,7 +1965,7 @@
       }
     },
     "jsdom": {
-      "version": "9.2.1",
+      "version": "7.2.2",
       "dependencies": {
         "acorn": {
           "version": "2.7.0"
@@ -2804,6 +2801,9 @@
         }
       }
     },
+    "react-test-env": {
+      "version": "0.1.1"
+    },
     "react-virtualized": {
       "version": "7.9.1",
       "dependencies": {
@@ -3041,7 +3041,7 @@
       "version": "0.1.2"
     },
     "serializerr": {
-      "version": "1.0.2"
+      "version": "1.0.3"
     },
     "serve-index": {
       "version": "1.8.0",
@@ -3662,7 +3662,7 @@
       "version": "0.2.9"
     },
     "webidl-conversions": {
-      "version": "3.0.1"
+      "version": "2.0.1"
     },
     "webpack": {
       "version": "1.13.1",
@@ -3705,8 +3705,8 @@
     "whatwg-fetch": {
       "version": "0.9.0"
     },
-    "whatwg-url": {
-      "version": "3.0.0"
+    "whatwg-url-compat": {
+      "version": "0.6.5"
     },
     "which": {
       "version": "1.2.10"
